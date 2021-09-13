@@ -1,2 +1,2 @@
-# minecraft-shop
-A Flask webserver for a Minecraft server shop
+# Just a Flask server for a Minecraft server shop
+bottom text
