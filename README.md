@@ -1,2 +1,5 @@
 # Just a Flask server for a Minecraft server shop
-bottom text
+
+
+
+the codebase messed up so i dont wanna work on it anymore sorry :D
