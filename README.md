@@ -2,6 +2,10 @@
 [![Discord](https://img.shields.io/discord/794061682279317554)](https://discord.giornosmp.com)
 ![PyPI - License](https://img.shields.io/pypi/l/mi)
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+
 A web server for a simple Minecraft server shop!
 
 You need <a href="https://www.spigotmc.org/resources/authmereloaded.6269">AuthMe Reloaded</a> to use password verification.
