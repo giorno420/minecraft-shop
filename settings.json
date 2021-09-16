@@ -1,0 +1,13 @@
+{
+    "id": "Discord Oauth2 ID",
+    "secret": "Discord Client secret",
+    "redirect_uri": "Oauth2 Redirect URI",
+    "insecuretransport": "true for testing, false for production",
+    "token": "Discord Bot Token",
+	"sftpUsername": "SFTP Username",
+	"sftpURL": "SFTP URL",
+	"sftpPort": "SFTP Port",
+	"sftpPassword": "SFTP Password",
+    "serverIP": "Your Minecraft server IP (with the port of my Plugin's webserver)",
+    "pluginKey": "Your Key in the `config.yml` file. Also be sure to enable the key verification or it wont work"
+}
