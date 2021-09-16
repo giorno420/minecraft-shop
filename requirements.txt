@@ -1,0 +1,5 @@
+Flask==1.0
+Flask-Discord==0.1.64
+requests==2.25.1
+bcrypt==3.2.0
+pysftp==0.2.9
