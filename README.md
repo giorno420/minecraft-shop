@@ -40,7 +40,7 @@ pip3 install -r requirements.txt
 ```
 
 ### Adding the plugin
-Download the plugin from {add plugin later}
+Download the plugin and follow the detailed instructions <a href="https://github.com/giorno420/minecraft-shop-plugin">here</a>
 
 ### Starting the web server
 Run the `main.py` file, and congratulations! You successfully set everything up
