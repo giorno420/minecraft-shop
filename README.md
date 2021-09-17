@@ -12,6 +12,7 @@ You need <a href="https://www.spigotmc.org/resources/authmereloaded.6269">AuthMe
 This project uses:
  - SFTP to get the passwords database
  - A custom plugin for running commands
+ - Discord login
  - Python, Java and JavaScript :D
 
 ## Setting up
