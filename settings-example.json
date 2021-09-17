@@ -7,7 +7,7 @@
 	"sftpUsername": "(string) yourusername123123.serverID",
 	"sftpURL": "(string) fr-123-420.falix.gg",
 	"sftpPort": "(integer) 9312",
-	"sftpPassword": "(String) ************"
+	"sftpPassword": "(String) ************",
     "serverIP": "(string) 45.432.623.425:4567",
     "pluginKey": "(string) change_me {by default}"
 }
