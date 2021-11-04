@@ -8,7 +8,7 @@ from flask_discord import DiscordOAuth2Session, requires_authorization
 with open("settings.json", 'r') as configjson:
     config = json.load(configjson)
 
-app = Flask("main_application")
+app = Flask("minorities")
 
 app.secret_key = os.urandom(24)
 os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = config['insecuretransport']
