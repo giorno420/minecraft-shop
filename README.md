@@ -11,7 +11,7 @@ A web server for a simple Minecraft server shop!
 You need <a href="https://www.spigotmc.org/resources/authmereloaded.6269">AuthMe Reloaded</a> to use password verification.
 This project uses:
  - SFTP to get the passwords database
- - A custom plugin for running commands
+ - <a href="https://github.com/giorno420/minecraft-shop-plugin">This plugin</a> (credits to me lmao)
  - Discord login
  - Python, Java and JavaScript :D
 
