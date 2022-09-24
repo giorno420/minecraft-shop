@@ -35,7 +35,7 @@ git clone https://github.com/giorno420/minecraft-shop.git
 I'm using a `settings.json` file for configuration, and a `settings-example.json` file which shows how your config file should look like. Delete the `settings-example.json` file in the production environment. All the information and details are in the example file.
 
 ### Requirements
-This project uses modules (duh). Installing them all is fairly easy. Open this project's directory, and run: 
+This project uses modules. Installing them all is fairly easy. Open this project's directory, and run: 
 ```sh
 pip3 install -r requirements.txt
 ```
